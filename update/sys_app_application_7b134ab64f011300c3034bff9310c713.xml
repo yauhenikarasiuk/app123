@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>App123</name>
+        <order/>
+        <roles>x_102111_app123.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-28 14:03:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b134ab64f011300c3034bff9310c713</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>App123</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="App123" source="x_102111_app123">f31302b24f011300c3034bff9310c7ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App123">f31302b24f011300c3034bff9310c7ad</sys_scope>
+        <sys_update_name>sys_app_application_7b134ab64f011300c3034bff9310c713</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-28 14:03:58</sys_updated_on>
+        <title>App123</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

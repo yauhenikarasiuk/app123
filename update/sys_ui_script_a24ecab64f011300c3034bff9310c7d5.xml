@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <name>x_102111_app123.asda</name>
+        <script><![CDATA[var x_102111_app123 = x_102111_app123 || {};
+
+x_102111_app123.asda = (function() {
+	"use strict";
+
+/* set your private variables and functions here. For example: 
+	var privateVar = 0; 
+	function private_function() {
+		return ++privateVar;
+	}
+*/
+
+/* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+	x_102111_app123.sharedVar = 0; 
+
+ Then access them in your scripts the same way. For example: 
+	function get_shared() {
+		return x_102111_app123.sharedVar;
+	}
+*/
+
+	return {
+
+/* set your public API here. For example:
+		incrementAndReturnPrivateVar: function() {
+			return private_function();
+		},
+*/
+		type:  "asda"
+	};
+})();
+]]></script>
+        <script_name>asda</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-28 14:52:45</sys_created_on>
+        <sys_id>a24ecab64f011300c3034bff9310c7d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_102111_app123.asda</sys_name>
+        <sys_package display_value="App123" source="x_102111_app123">f31302b24f011300c3034bff9310c7ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App123">f31302b24f011300c3034bff9310c7ad</sys_scope>
+        <sys_update_name>sys_ui_script_a24ecab64f011300c3034bff9310c7d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-28 14:52:45</sys_updated_on>
+        <use_scoped_format>true</use_scoped_format>
+    </sys_ui_script>
+</record_update>
